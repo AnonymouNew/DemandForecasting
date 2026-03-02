@@ -62,12 +62,6 @@ To transition from "Model-Centric" AI to "System-Centric" AI by building a produ
 *   **Zero-Downtime Deployment**: Implemented a versioning system (v1.0.4) allowing for seamless model rollbacks.
 *   **Automated Monitoring**: Reduced manual model auditing time by 70% through automated health dashboards.
 
----
-
-## 🎓 Interview Preparation & Learning Guide
-This project includes an **AI-Powered Interview Prep Suite** (integrated with Gemini API) that provides:
-*   **Technical Q&A**: Deep dives into "Why XGBoost over Random Forest?" and "How to handle non-stationary time series."
-*   **Behavioral Context**: Frameworks for explaining technical trade-offs to non-technical stakeholders.
 
 ---
 
